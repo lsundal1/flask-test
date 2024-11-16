@@ -3,7 +3,7 @@
 Run the following commands to set up: 
 - python3 -m venv tutorial-env
 - source tutorial-env/bin/activate
-- python -m pip install -r requirements.txt
+- python3 -m pip install -r requirements.txt
 
 
 For more info on creating virtual environment in python click here : https://docs.python.org/3/tutorial/venv.html
