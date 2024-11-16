@@ -6,6 +6,9 @@ Run the following commands to set up:
 - python3 -m pip install -r requirements.txt
 
 
+https://www.youtube.com/watch?v=fsVEYh6TIm0&t=574s
+
+
 For more info on creating virtual environment in python click here : https://docs.python.org/3/tutorial/venv.html
 
 Flask docs: https://flask.palletsprojects.com/en/stable/installation/
